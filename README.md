@@ -5,7 +5,7 @@
 <p>We use  logistic regression models a vector of features</p>
 <p>each vector element is the return value of a feature function which recieved the image matrix as input. </p>
 <p>Afterwards we plot features and combination of features to give an example of the feature's donation to the </p>
-<p>classification quality. and the final step is printing some metrics such as confustion matrix and more.  </p>
+<p>classification quality. The final step is printing some metrics such as confustion matrix and more.  </p>
 <p></p>
 
 
