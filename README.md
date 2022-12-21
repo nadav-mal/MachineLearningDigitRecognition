@@ -1,5 +1,5 @@
-# MachineLearningDigitRecognition
-Digits feature engineering used for the sake of dimensionality reduction.
+# Machine Learning Handwritten-Digits Recognition model
+<p>Digits feature engineering used for the sake of dimensionality reduction.</p>
 The hand written digits are given as input from sklearn data sets library.
 We use  logistic regression models a vector of features,
 each vector element is the return value of a feature function which recieved the image matrix as input.
