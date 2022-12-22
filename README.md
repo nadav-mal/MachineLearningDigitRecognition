@@ -1,6 +1,6 @@
 # Machine Learning Handwritten-Digits Recognition
 <h3>Written by Nadav Malul and Ely Asaf </h3>
-<p>Used a map data structure to easily add and remove different features</p>
+<p>Used a map data structure to easily add and remove different features.</p>
 <p>Digits feature engineering used for the sake of dimensionality reduction.</p>
 <p>The hand written digits used from sklearn data sets library.</p>
 <p>From the input, we make a map with all features, so that each entry is a featrue
