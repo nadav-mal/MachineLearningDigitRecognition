@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec 14 20:47:00 2022
-@author: Nadav Malul 206762973 and Ely asaf 319027355
+@author: Nadav Malul  and Ely asaf 
 """
 
 import matplotlib.pyplot as plt
