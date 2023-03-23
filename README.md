@@ -16,7 +16,7 @@
 
 <h2>Conclusion</h2>
 
-<p>This project was a great learning experience for us, as we got to explore the world of machine learning and its applications in image recognition. It was interesting to see how different features can be used for dimensionality reduction and improve the accuracy of the model. We plan to continue exploring and experimenting with more advanced machine learning models and techniques in the future.</p>
+<p>It was interesting to see how different features can be used for dimensionality reduction and improve the accuracy of the model. We plan to continue exploring and experimenting with more advanced machine learning models and techniques in the future, stay tuned!</p>
 
 
 
