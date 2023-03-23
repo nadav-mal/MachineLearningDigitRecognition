@@ -1,4 +1,3 @@
-# Machine Learning Handwritten-Digits Recognition
 <h1>Machine Learning Handwritten Digits Recognition</h1>
 
 <p>In this project, we developed a machine learning model to recognize handwritten digits. We used a map data structure to easily add and remove different features for dimensionality reduction. The dataset used for this project is from the sklearn datasets library.</p>
