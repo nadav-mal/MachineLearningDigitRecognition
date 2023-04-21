@@ -14,11 +14,6 @@
 
 <p>At last, we print some evaluation metrics such as a confusion matrix to show the classification made. These metrics help us in measuring the accuracy and performance of the machine learning model.</p>
 
-<h2>Conclusion</h2>
-
-<p>It was interesting to see how different features can be used for dimensionality reduction and improve the accuracy of the model. We plan to continue exploring and experimenting with more advanced machine learning models and techniques in the future, stay tuned!</p>
-
-
 
 
  
